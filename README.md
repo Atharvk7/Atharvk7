@@ -12,7 +12,8 @@ I am a full-stack software engineer pursuing my B.Eng from Pune University in Co
 
 - 🌱 Looking for job opportunities to continue growing my experience with the full stack
 - 🤔 Curious about new tech stacks
-- 🔭 I’m currently learning ML specifically DL and also System design and patterns.
+- 🚶🏻‍♂️ Take a loot at <a href="atharvkulkarni.netlify.app">My Portfolio</a>
+- 🔭 I’m currently learning Vue and also System design and patterns.
 - 💬 Ask me about JavaScript, Python and foreign policy.
 
 
@@ -45,5 +46,5 @@ My Tech Stack:
   <a href="https://www.linkedin.com/in/atharv-kulkarni777/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href ="atharvkulkarni.netlify.app" > My Portfolio </a>
+ 
 </p> 
