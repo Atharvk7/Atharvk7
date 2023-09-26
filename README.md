@@ -10,11 +10,11 @@
 I am a full-stack software engineer pursuing my B.Eng from Pune University in Computer Engineering I have more than one year of full-stack development experience and I love to code in JavaScript and Python.
 </p>
 
-- 🌱 Looking for job opportunities to continue growing my experience with the full stack
-- 🤔 Curious about new tech stacks
-- 🚶🏻‍♂️ Take a loot at <a href="https://atharvkulkarni.netlify.app">My Portfolio</a>
+- 🌱 Looking for job opportunities to continue growing my experience with full stack development.
+- 🤔 Curious about new tech stacks.
+- 🚶🏻‍♂️ Take a look at <a href="https://atharvkulkarni.netlify.app" target="_blank">My Portfolio</a>
 - 🔭 I’m currently learning Vue and also System design and patterns.
-- 💬 Ask me about JavaScript, Python and foreign policy.
+- 💬 Ask me about JavaScript, Python, and foreign policy.
 
 
 <h3 align='center'>
