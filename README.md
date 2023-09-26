@@ -12,7 +12,7 @@ I am a full-stack software engineer pursuing my B.Eng from Pune University in Co
 
 - 🌱 Looking for job opportunities to continue growing my experience with the full stack
 - 🤔 Curious about new tech stacks
-- 🚶🏻‍♂️ Take a loot at <a href="atharvkulkarni.netlify.app">My Portfolio</a>
+- 🚶🏻‍♂️ Take a loot at <a href="https://atharvkulkarni.netlify.app">My Portfolio</a>
 - 🔭 I’m currently learning Vue and also System design and patterns.
 - 💬 Ask me about JavaScript, Python and foreign policy.
 
