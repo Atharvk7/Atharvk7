@@ -13,8 +13,8 @@ I am a full-stack software engineer pursuing my B.Eng from Pune University in Co
 - 🌱 Looking for job opportunities to continue growing my experience with full stack development.
 - 🤔 Curious about new tech stacks.
 - 🚶🏻‍♂️ Take a look at <a href="https://atharvkulkarni.vercel.app" target="_blank">My Portfolio</a>
-- 🔭 I’m currently learning AI, System design, and design patterns.
-- 💬 Ask me about JavaScript, Python, and foreign policy.
+- 🔭 I’m currently learning AI, System architecture, and design patterns.
+- 💬 Ask me about JavaScript, Python, and mobile development.
 
 
 <h3 align='center'>
