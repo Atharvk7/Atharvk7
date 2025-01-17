@@ -7,7 +7,7 @@
 
 
 <p align='center'>
-I am a full-stack software engineer pursuing my B.Eng from Pune University in Computer Engineering I have more than one year of full-stack development experience and I love to code in JavaScript and Python.
+I am a full-stack software engineer pursuing my B.Eng from Pune University in Computer Engineering I have more than two years of full-stack development experience and I love to code in JavaScript and Python.
 </p>
 
 - 🌱 Looking for job opportunities to continue growing my experience with full stack development.
