@@ -17,7 +17,7 @@
 ---
 
 <p align="center">
-I’m a <strong>Full-Stack Software Engineer</strong> pursuing my B.Eng in Computer Engineering from Pune University, with <strong>2+ years of hands-on experience</strong> building real-world products used by thousands of users.
+I’m a <strong>Full-Stack Software Engineer</strong> pursuing my B.Eng in Computer Engineering from Pune University, with <strong>2.5 years of hands-on experience</strong> building real-world products used by thousands of users.
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@ I thrive in <strong>early-stage and fast-moving startup environments</strong> wh
 </p>
 
 <p align="center">
-My core strength lies in turning <strong>ambiguous ideas into scalable systems</strong>, writing clean maintainable code, and thinking deeply about performance, security, and long-term growth.
+My core strength lies in turning <strong>ambiguous ideas into scalable systems</strong>, writing clean, maintainable code, and thinking deeply about performance, security, and long-term growth.
 </p>
 
 ---
