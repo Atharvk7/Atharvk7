@@ -1,50 +1,82 @@
-<h1 align='center'>
-  Hi there 👋 I'm Atharv 💻
-</h1>
-<h1 align='center'>
- 📍 Currently based in Pune, India, and open to opportunities in any area around the world🌎, or remote
+<h1 align="center">
+  Hi 👋 I’m Atharv Kulkarni
 </h1>
 
+<h3 align="center">
+  Full-Stack Engineer | Product-Driven Builder | Systems Thinker
+</h3>
 
-<p align='center'>
-I am a full-stack software engineer pursuing my B.Eng from Pune University in Computer Engineering I have more than two years of full-stack development experience and I love to code in JavaScript and Python.
+<p align="center">
+  I build scalable, production-ready products — not just features.
 </p>
 
-- 🌱 Looking for job opportunities to continue growing my experience with full stack development.
-- 🤔 Curious about new tech stacks.
-- 🚶🏻‍♂️ Take a look at <a href="https://atharvkulkarni.vercel.app" target="_blank">My Portfolio</a>
-- 🔭 I’m currently learning AI, System architecture, and design patterns.
-- 💬 Ask me about JavaScript, Python, and mobile development.
+<p align="center">
+  📍 Pune, India · 🌍 Open to global & remote opportunities
+</p>
 
+---
 
-<h3 align='center'>
-My Tech Stack:
-</h3>
+<p align="center">
+I’m a <strong>Full-Stack Software Engineer</strong> pursuing my B.Eng in Computer Engineering from Pune University, with <strong>2+ years of hands-on experience</strong> building real-world products used by thousands of users.
+</p>
+
+<p align="center">
+I thrive in <strong>early-stage and fast-moving startup environments</strong> where ownership matters — from designing APIs and system architecture to shipping polished frontend and mobile experiences.
+</p>
+
+<p align="center">
+My core strength lies in turning <strong>ambiguous ideas into scalable systems</strong>, writing clean maintainable code, and thinking deeply about performance, security, and long-term growth.
+</p>
+
+---
+
+### 🚀 What I Bring to a Startup
+
+- 🧠 Strong product mindset — I think in **users, scale, and trade-offs**
+- ⚙️ End-to-end ownership — backend, frontend, mobile, infra
+- 🔐 Experience with **real-time systems, caching, authentication & security**
+- 📈 Built and scaled systems serving **thousands of active users**
+- 🤝 Comfortable working independently or leading small teams
+
+---
+
+### 🛠 Tech I Work With
 
 <p align='center'>
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <br>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> 
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+</p>
+
+---
+
+### 🌱 Currently Exploring
+- AI integrations & intelligent systems
+- RAG pipelings and AIOps 
+- System design & production-grade patterns
 
 
-<h3 align='center'>
-  How to reach me:
-</h3>
-<p align='center'>
-  <a href="https://www.linkedin.com/in/atharv-kulkarni777/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+---
+
+### 🔗 Let’s Connect
+<p align="center">
+  <a href="https://atharvkulkarni.vercel.app" target="_blank">
+    🌐 Portfolio
   </a>
- 
-</p> 
+  &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/atharv-kulkarni777/">
+    💼 LinkedIn
+  </a>
+</p>
+
+<p align="center">
+  <em>I’m always excited to collaborate on ambitious products and high-impact ideas.</em>
+</p>
