@@ -60,7 +60,7 @@ My core strength lies in turning <strong>ambiguous ideas into scalable systems</
 
 ### 🌱 Currently Exploring
 - AI integrations & intelligent systems
-- RAG pipelings and AIOps 
+- RAG pipelines and AIOps 
 - System design & production-grade patterns
 
 
